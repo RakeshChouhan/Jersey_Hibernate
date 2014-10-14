@@ -13,10 +13,10 @@ Components used :
 Configuration:
 ==============
 
-(a)create database in mysql named "empmanagement"
-(b)make changes in xmlconfig/hibernate-cfg.xml file
+(a)Create database in mysql named "empmanagement"
+(b)Make changes in xmlconfig/hibernate-cfg.xml file
    ie connection url, username and password of your database.
-(c)uncomment the hbm2dll.auto property for first time
+(c)Uncomment the hbm2dll.auto property for first time
    if tables created in your database then recomment it.
 
  
