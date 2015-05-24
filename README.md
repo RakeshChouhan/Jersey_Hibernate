@@ -1,6 +1,6 @@
 Jersey_Hibernate
 ================
-
+It is a sample application of employee menagement in Jersey and hibernate.
 Restful webservice with Jersey and Hibernate.
 
 Components used :
